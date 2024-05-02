@@ -9,7 +9,7 @@ const Projects = () => {
           target="_blank"
           className="max-w-sm"
           imgAlt="A screenshot of the landing page of aniyiltemple.org"
-          imgSrc="src/assets/aniyil-temple.png"
+          imgSrc="https://private-user-images.githubusercontent.com/87843823/327329630-2ab382bf-b559-4219-8966-cd0460cd00b4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ2MzEyOTIsIm5iZiI6MTcxNDYzMDk5MiwicGF0aCI6Ii84Nzg0MzgyMy8zMjczMjk2MzAtMmFiMzgyYmYtYjU1OS00MjE5LTg5NjYtY2QwNDYwY2QwMGI0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTAyVDA2MjMxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRmNjdjZDM3ODg3MTBmNzZhNzUxMGVjY2NlMDY0OTQ4NjZiYmU4NzFhYmYwMmJiN2Y0YmYwYmUzZmMzYjQ4MjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.BO1WCVdGtUi5nDxlnaIpPlgh_5jYgBgDOCDiwnzgfy0"
         >
           <h5 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
             Website for a Temple
