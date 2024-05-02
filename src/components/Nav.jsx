@@ -22,7 +22,7 @@ const Nav = () => {
       : "text-white rounded-md px-3 py-2";
   const content = (
     <>
-      <div className="lg:hidden block absolute top-16 w-full left-0 right-0 bg-amber-500 transition">
+      <div className="lg:hidden block absolute top-16 w-full left-0 right-0 bg-xt transition">
         <ul className="text-center text-xl p-20">
           <NavLink to="/" onClick={closeNav}>
             <li className="my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded">
@@ -39,11 +39,11 @@ const Nav = () => {
               Projects
             </li>
           </NavLink>
-          <NavLink to="/blog" onClick={closeNav}>
+          {/* <NavLink to="/blog" onClick={closeNav}>
             <li className="my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded">
               Blog
             </li>
-          </NavLink>
+          </NavLink> */}
         </ul>
       </div>
     </>
@@ -74,11 +74,11 @@ const Nav = () => {
                   Projects
                 </li>
               </NavLink>
-              <NavLink to="/blog" className={linkClass}>
+              {/* <NavLink to="/blog" className={linkClass}>
                 <li className="hover:text-black transition border-b-2 hover:border-black cursor-pointer">
                   Blog
                 </li>
-              </NavLink>
+              </NavLink> */}
             </ul>
           </div>
         </div>

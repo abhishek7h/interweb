@@ -9,7 +9,7 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Projects from "./pages/Projects";
 import MainLayout from "./layouts/MainLayout";
-import Blog from "./pages/Blog";
+// import Blog from "./pages/Blog";
 // import NotFoundPage from "./pages/NotFoundPage";
 
 const router = createBrowserRouter(
@@ -18,7 +18,7 @@ const router = createBrowserRouter(
       <Route index element={<Home />} />
       <Route path="about" element={<About />} />
       <Route path="projects" element={<Projects />} />
-      <Route path="blog" element={<Blog />} />
+      {/* <Route path="blog" element={<Blog />} /> */}
       {/* <Route path="*" element={<NotFoundPage />} /> */}
     </Route>
   )
