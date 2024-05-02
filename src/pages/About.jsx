@@ -2,7 +2,7 @@ const About = () => {
   return (
     <div>
       <h1 className="text-3xl lg:text-5xl mt-10 flex items-center justify-center font-semibold leading-normal text-xt underline hover:text-gray-500 text-center">
-        Who I Am.{" "}
+        About Me{" "}
       </h1>
       <p className="text-left text-white mt-10 text-2xl mr-5 ml-5 lg:mr-10 lg:ml-10 lg:px-10 leading-10">
         <span className="text-7xl font-serif">I</span> am Abhishek Hari. I am a
