@@ -17,3 +17,9 @@ body {
 .img_glow {
   box-shadow: 0 0 55px #cacaec;
 }
+
+.jacquard-24-regular {
+  font-family: "Jacquard 24", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}

@@ -22,16 +22,28 @@ const Hero = () => {
             <div className="flex items-center justify-center">
               <div className="flex space-x-2 text-xt">
                 <a href="https://x.com/abhishek7h">
-                  <FaTwitter className="text-[28px] hover:text-gray-500" />
+                  <FaTwitter
+                    className="text-[28px] hover:text-gray-500"
+                    target="_blank"
+                  />
                 </a>
                 <a href="https://github.com/abhishek7h">
-                  <AiFillGithub className="text-[28px] hover:text-gray-500" />
+                  <AiFillGithub
+                    className="text-[28px] hover:text-gray-500"
+                    target="_blank"
+                  />
                 </a>
                 <a href="https://ah3.medium.com">
-                  <FaMedium className="text-[28px] hover:text-gray-500" />
+                  <FaMedium
+                    className="text-[28px] hover:text-gray-500"
+                    target="_blank"
+                  />
                 </a>
-                <a href="mailto:hey@abhishekhari.com">
-                  <MdEmail className="text-[28px] hover:text-gray-500" />
+                <a href="mailto:habhishek2008@gmail.com">
+                  <MdEmail
+                    className="text-[28px] hover:text-gray-500"
+                    target="_blank"
+                  />
                 </a>
               </div>
             </div>
